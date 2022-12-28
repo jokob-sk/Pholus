@@ -1,3 +1,7 @@
+
+# Out-of-date repo
+Merged & further developed in https://github.com/jokob-sk/Pi.Alert
+
 # Pholus
 A multicast DNS and DNS Service Discovery Security Assessment Tool
 It can perform recconnaisance, Denial of Service, Man in the Middle attacks
